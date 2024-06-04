@@ -2,7 +2,7 @@
 
 ### PRODUCT DEMO CREATION ON SUPABASE
 
-assets/factory_demo.mov
+<video src='assets/factory_demo.mov' width=180/>
 
 ### SUPABASE
 
@@ -11,7 +11,7 @@ assets/factory_demo.mov
 
 ### LANDING PAGE
 
-assets/landing.mov
+<video src='assets/landing.mov' width=180/>
 
 ### SIGN UP
 
