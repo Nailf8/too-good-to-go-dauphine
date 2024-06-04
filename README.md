@@ -2,7 +2,7 @@
 
 ### PRODUCT DEMO CREATION ON SUPABASE
 
-![Product Demo Creation](assets/factory_demo.mov)
+assets/factory_demo.mov
 
 ### SUPABASE
 
@@ -11,7 +11,7 @@
 
 ### LANDING PAGE
 
-![Landing Page](assets/landing.mov)
+assets/landing.mov
 
 ### SIGN UP
 
