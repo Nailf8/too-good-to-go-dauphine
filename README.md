@@ -1,17 +1,16 @@
-## Components
+## TooGoodDauphine
 
-### PRODUCT DEMO CREATION ON SUPABASE
+### PRODUCT DEMO CREATION ON SUPABASE (go to assets/factory_demo.mov)
 
-[![Product Demo Creation](assets/sp1.png)](assets/factory_demo.mov)
+[![Product Demo Creation](assets/sp2.png)](assets/factory_demo.mov)
 
-### SUPABASE
+### AUTHENTICATION
 
 ![Supabase](assets/sp1.png)
-![Supabase](assets/sp2.png)
 
 ### LANDING PAGE
 
-[![Landing Page](assets/sp2.png)](assets/landing.mov)
+[![Landing Page](assets/landing.png)](assets/landing.mov)
 
 ### SIGN UP
 
